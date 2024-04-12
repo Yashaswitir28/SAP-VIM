@@ -7,9 +7,6 @@ SAP Vendor Invoice Management (VIM) is an integral part of the SAP ERP system, d
 # Clone this repository to your local environment.
 To access all the files necessary for learning purposes, clone the repository to your local environment. This will provide you with the documentation, examples, scripts, and configuration files needed to understand and configure SAP VIM integration within your SAP system.
 
-# Contributing
-Contributions to improve and extend the functionality of SAP VIM integration are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
-
 # Support
 For any issues or questions regarding SAP VIM integration, please reach out to the repository owner.
 
